@@ -1,0 +1,25 @@
+{
+  "name": "vultr-api",
+  "version": "0.1.0",
+  "description": "Communication with the Vultr API from node.js",
+  "main": "lib/vultr-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefkampen/vultr-api-nodejs"
+  },
+  "keywords": [
+    "vultr"
+  ],
+  "author": "Stef Kampen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefkampen/vultr-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/stefkampen/vultr-api-nodejs",
+  "dependencies": {
+    "async": "^0.8.0"
+  }
+}
