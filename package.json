@@ -1,6 +1,6 @@
 {
   "name": "vultr-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Communication with the Vultr API from node.js",
   "main": "lib/vultr-api.js",
   "scripts": {
